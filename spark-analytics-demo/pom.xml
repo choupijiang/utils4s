@@ -11,7 +11,7 @@
     <artifactId>spark-analytics</artifactId>
     <inceptionYear>2008</inceptionYear>
     <properties>
-        <spark.version>1.4.0</spark.version>
+        <spark.version>2.2.0</spark.version>
     </properties>
     <dependencies>
         <dependency>
